@@ -3,7 +3,7 @@
 # Giới Thiệu Môn Học:
 * Tên môn học: Nhập môn công nghệ phần mềm 
 * Đề tài: Phần mềm quản lý thư viện 
-* Mã môn học:SE104
+* Mã môn học: SE104
 * Mã lớp: SE104.M23.PMCL
 * Năm học: Học kỳ 2 (2021-2022)
 * Giảng viên: Mai Trọng Khang 
